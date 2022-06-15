@@ -1,3 +1,12 @@
+/*
+ Q6. Approach
+ 1. Write a http request method
+ 2. request method return error and response
+ 3. Standarize error with method passing structure
+
+
+*/
+
 package main
 
 import (
